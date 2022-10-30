@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at www.willkimble.com
 
-- 📫 How to reach me **wkimble91@protonmail.com**
+- 📫 How to reach me **mail@willkimble.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
