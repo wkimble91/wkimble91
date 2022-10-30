@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @wkimble91
-- 👀 I’m interested in Web Development, primarily Front End
+- 👀 I’m a Front End Web Developmer
