@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Will Kimble</h1>
 <h3 align="center">I’m a Front-End Web Developer who loves good design</h3>
 
-- 🌱 I’m currently learning **ReactJS and Figma**
+- 🌱 I’m currently learning **ReactJS and UI/UX**
 
 - 🤝 I’m looking to help and collaborate on **environmental / open-source projects**
 
