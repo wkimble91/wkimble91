@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will Kimble</h1>
 <h3 align="center">I’m a Front-End Web Developer who loves good design</h3>
+<br>
 
 - 🌱 I’m currently working on learning **ReactJS and UI/UX Design**
 
