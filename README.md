@@ -2,7 +2,7 @@
 <h3 align="center">I’m a Front-End Web Developer who loves good design</h3>
 <br>
 
-- 🌱 I’m currently working on learning **ReactJS and UI/UX Design**
+- 🌱 I’m currently working on honing my **ReactJS and UI/UX Design** skills
 
 - 🤝 I’m actively looking to help and collaborate on **environmental / open-source projects**
 
