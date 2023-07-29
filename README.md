@@ -3,9 +3,9 @@
    <a href="https://www.linkedin.com/in/william-ian-kimble/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
    <a href="https://willkimble.com"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
 </p>
-
+<br>
 Web developer that loves the challenge and constant learning involved with coding. When I'm not coding, you can find me drinking too much coffee, playing video games, and petting every dog I see. 
-
+<br><br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -23,6 +23,6 @@ Web developer that loves the challenge and constant learning involved with codin
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="40" height="40"/> </a> 
 </p>
-
+<br>
 <h4 align="center">Support Me:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/wkimble91"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="wkimble91" /></a></p><br><br>
