@@ -22,6 +22,7 @@ Web developer that loves the challenge and constant learning involved with codin
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="40" height="40"/> </a> 
 </p>
+
  
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/wkimble91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wkimble91" /></a></p><br><br>
+<h4 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/wkimble91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="wkimble91" /></a></p><br><br>
