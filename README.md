@@ -25,4 +25,4 @@ Web developer that loves the challenge, puzzle solving and constant learning inv
 </p>
 <br>
 <h4 align="center">Support Me:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/wkimble91"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="wkimble91" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/wkimble91"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="126" alt="wkimble91" /></a></p><br><br>
