@@ -4,7 +4,7 @@
    <a href="https://willkimble.com"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
 </p>
 <br>
-Web developer that loves the challenge, puzzle solving and constant learning involved with coding. When I'm not coding, you can find me drinking too much coffee, playing board games, and hiking every chance I get. 
+Tech Support Specialist that loves the challenge, puzzle solving and constant learning involved with freelance web development. When I'm not coding, you can find me drinking too much coffee, playing board games, and hiking every chance I get. 
 <br><br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
